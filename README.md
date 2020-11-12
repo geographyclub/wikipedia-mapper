@@ -6,4 +6,4 @@ Script(s) to convert wikipedia sections (introduction, climate, description, eco
 
 ## Files
 
-[wikipedia2csv.sh](https://github.com/geographyclub/wikipedia-mapper/blob/master/wikipedia2csv.sh) -- search wikipedia datadump for article then save as csv file (for importing into psql).
+[wikipedia2csv.sh](https://github.com/geographyclub/wikipedia-mapper/blob/master/wikipedia2csv.sh) -- search and parse wikipedia datadump and save result as csv file (for importing into psql).
