@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Script(s) to work with wikipedia data (coordinates, links) and content (introduction, climate, description, ecology, fauna, flora, geography) for mapmaking.
+Script(s) to work with wikipedia data (coordinates, links) and content (sections) for mapmaking.
 
 ## Files
 
