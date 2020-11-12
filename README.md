@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Script(s) to convert wikipedia sections (intro, climate, description, ecology, fauna, flora, geography) into mappable content.
+Script(s) to convert wikipedia sections (introduction, climate, description, ecology, fauna, flora, geography) into mappable content.
 
 ## Files
 
