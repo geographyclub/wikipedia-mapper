@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Script(s) to work with wikipedia data (coordinates, links) and content (sections) for mapmaking.
+Script(s) to work with wikipedia and wikidata for mapmaking.
 
 ## Files
 
