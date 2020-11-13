@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Script(s) to work with wikipedia and wikidata as spatial datasets.
+Script(s) to use wikipedia/wikidata as spatial datasets in mapmaking.
 
 ## Files
 
