@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Script(s) to use wikipedia/wikidata content (sections, coordinates) in spatial datasets.
+My project exploring ways to use wikipedia/wikidata in mapmaking.
 
 ## Files
 
